@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/data
+
 import time
 import requests
 from bs4 import  BeautifulSoup
